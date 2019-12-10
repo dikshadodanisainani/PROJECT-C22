@@ -38,6 +38,11 @@ function setup() {
     fixedcircle.shapeColor="red";
 
   }
+       else{
+    movingcircle.shapeColor="green";
+    fixedcircle.shapeColor="green";
+  }
+
 
   drawSprites();
 
